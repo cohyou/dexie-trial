@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dexie": "^2.0.4",
+    "dexie": "^3.2.2",
     "webpack": "^4.39.3"
   },
   "devDependencies": {
